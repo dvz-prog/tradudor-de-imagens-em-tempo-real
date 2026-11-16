@@ -32,4 +32,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: TradutorDeImagens-apk
-          path: TradutorDelmagens-Android/TradutorAndroid/app/build/outputs/apk/debug/*.apk
+          path: TradutorDeImagens-Android/TradutorAndroid/app/build/outputs/apk/debug/*.apk
